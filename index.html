@@ -18,22 +18,11 @@
     window.$docsify = {
       name: '鬼斩的Wiki列表',
       repo: 'ybw0014/wiki', 
-      basePath: '/pages/',
-      homepage: 'Home.md',
+      basePath: '/',
       auto2top: true,
-      loadSidebar: true,
       autoHeader: true,
       notFoundPage: true,
-      search: {
-        placeholder: '搜索',
-        noData: '没有结果',
-        hideOtherSidebarContent: true,
-      },
-      copyCode: {
-        buttonText: '复制到剪贴板',
-        errorText: '复制出错',
-        successText: '已复制'
-      },
+      search: false,
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
@@ -49,8 +38,6 @@
   </script>
   <!-- Docsify v4 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.3/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"></script>
