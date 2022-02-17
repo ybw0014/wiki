@@ -9,3 +9,4 @@
 - [ExoticGarden 异域花园](https://exoticgarden.guizhanss.wiki)
 - [InfinityExpansion 无尽科技](https://infinityexpansion.guizhanss.wiki)
 - [Networks 网络](https://networks.guizhanss.wiki)
+- [FoxyMachines 神秘科技](https://foxymachines.guizhanss.wiki)
