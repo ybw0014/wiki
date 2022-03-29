@@ -5,7 +5,7 @@
 ## Slimefun 粘液科技 相关
 
 - Slimefun 粘液科技: [国内节点](https://slimefun-wiki.guizhanss.cn) / [国外节点](https://slimefun.guizhanss.wiki)
-- SlimeTinker 粘液匠魂: [国内节点](https://slimefun-wiki.guizhanss.cn) / [国外节点](https://slimefun.guizhanss.wiki)
+- SlimeTinker 粘液匠魂: [国内节点](https://slimetinker-wiki.guizhanss.cn) / [国外节点](https://slimetinker.guizhanss.wiki)
 - ExoticGarden 异域花园: [国内节点](https://exoticgarden-wiki.guizhanss.cn) / [国外节点](https://exoticgarden.guizhanss.wiki)
 - InfinityExpansion 无尽科技: [国内节点](https://infinityexpansion-wiki.guizhanss.cn) / [国外节点](https://infinityexpansion.guizhanss.wiki)
 - Networks 网络: [国内节点](https://networks-wiki.guizhanss.cn) / [国外节点](https://networks.guizhanss.wiki)
